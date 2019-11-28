@@ -1,0 +1,9 @@
+.add-movie{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /* border:1px solid black; */
+    height:100%;
+    width:100%;
+    margin:20px;
+}

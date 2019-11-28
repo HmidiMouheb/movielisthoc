@@ -1,0 +1,14 @@
+.nav-bar {
+  background-image: linear-gradient(
+    to right,
+    #370505,
+    #610a13,
+    #8e1218,
+    #bd2019,
+    #eb3212
+  ) !important;
+  color: red !important;
+  display: flex !important;
+  flex-direction: column !important;
+  box-shadow: 1px 1px 12px #555 !important;
+}
